@@ -1,2 +1,1 @@
-Hello form main Branch
-
+Hello from Both Branches
